@@ -1,6 +1,7 @@
 # PersonalWebsite
 
-## [Zunanafikri.com](zunanalfikri.com)
+## [Zunanafikri.com](http://zunanalfikri.com)
+
 Website Pribadi dengan template dari Colorlib. Link bisa diakses [disini](google.com).
 
 Contoh Tampilan :
